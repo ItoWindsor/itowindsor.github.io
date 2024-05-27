@@ -1,4 +1,4 @@
-He is currently pursuing a Master's Degree in computer science, at School of Computer Science and Technology, China University of Mining and Technology.
+Quant Trader wannabe. Sharing what he thinks interesting
 
 #### Email
 sli[at]cumt.edu.cn
@@ -8,5 +8,5 @@ sli[at]cumt.edu.cn
 
 2018.08 - 2022.06, Data Science and Big Data Technology, School of Computer Science and Technology, China University of Mining and Technology.
 
-#### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+#### Interests
+Stochastic Calculus, Power Market, Machine Learning, Market Making
