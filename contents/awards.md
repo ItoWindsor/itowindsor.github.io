@@ -1,9 +1,15 @@
-- First-prize Academic Scholarship, 2023.
+# Books 
 
-- Freshman Academic Scholarship, 2022.
+## Finance 
 
-- Excellent Graduation Project of Jiangsu Province, 2022.
+## Machine Learning 
 
-- First-prize Enterprise Scholarship, 2021.
+- Hastie T., Tibshirani R., Friedman J., "Elements of Statistical Learning", 2009
 
-- First-prize Academic Scholarship, 2019.
+# Papers 
+
+## Finance 
+
+## Machine Learning 
+
+- Breiman L., "Statistical Modelling : the two cultures", 2001
