@@ -1,11 +1,11 @@
-Quant Trader wannabe. Sharing what he thinks interesting
+Quant Trader wannabe
 
 #### Twitter account 
-[[Ito Windsor]] (https://x.com/ItoWindsor)
+[Ito Windsor](https://x.com/ItoWindsor)
 
 
 #### Github
-[[github]] (https://github.com/ItoWindsor)
+[github](https://github.com/ItoWindsor)
 
 
 #### Interests
