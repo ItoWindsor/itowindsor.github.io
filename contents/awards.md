@@ -18,7 +18,7 @@
 
 ## Market Microstructure 
 
-- Avellaneda M., Stoikov S.,"High Frequency Trading in a Limit Order Book", s
+- Avellaneda M., Stoikov S.,"High Frequency Trading in a Limit Order Book", 2007
 
 ## Machine Learning 
 
