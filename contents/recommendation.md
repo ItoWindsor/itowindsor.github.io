@@ -2,24 +2,24 @@
 
 ## Quantitative Finance : derivatives 
 
-- Bouzoubaa M., "Exotic Options and Hybrids : a guide to structuring, pricing and trading", 2010
+- Bouzoubaa M., "<strong>Exotic Options and Hybrids : a guide to structuring, pricing and trading</strong>", 2010
 
 ## Market Microstructure
 
-- Bouchaud J., Bonard J., Donier J., Gould M., "Trades, Quotes and Prices: Financial Markets Under the Microscope", 2018
+- Bouchaud J., Bonard J., Donier J., Gould M., "<strong>Trades, Quotes and Prices: Financial Markets Under the Microscope</strong>", 2018 (currently reading)
 
 ## Machine Learning 
 
-- Hastie T., Tibshirani R., Friedman J., "Elements of Statistical Learning", 2009 (currently reading)  
+- Hastie T., Tibshirani R., Friedman J., "<strong>Elements of Statistical Learning</strong>", 2009 (currently reading)  
 
-- Bishop C., "Pattern recognition and machine learning", 2006
+- Bishop C., "<strong>Pattern recognition and machine learning</strong>", 2006 (currently reading)
 
 # Papers 
 
 ## Market Microstructure 
 
-- Avellaneda M., Stoikov S.,"High Frequency Trading in a Limit Order Book", 2007
+- Avellaneda M., Stoikov S.,"<strong>High Frequency Trading in a Limit Order Book</strong>", 2007
 
 ## Machine Learning 
 
-- Breiman L., "Statistical Modelling : the two cultures", 2001
+- Breiman L., "<strong>Statistical Modelling : the two cultures</strong>", 2001
