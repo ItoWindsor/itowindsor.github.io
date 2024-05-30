@@ -18,7 +18,7 @@
 
 ## Quantitative Finance 
 
-- Deutsche Bank, "<strong>Seven Sins of Quantitative Investing</strong>", 2014
+- Deutsche Bank, "<strong>Seven Sins of Quantitative Investing</strong>", 2014 (currently reading)
 
 ## Market Microstructure 
 
