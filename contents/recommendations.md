@@ -1,6 +1,6 @@
 # Books 
 
-## Quantitative Finance : derivatives 
+## Quantitative Finance 
 
 - Bouzoubaa M., "<strong>Exotic Options and Hybrids : a guide to structuring, pricing and trading</strong>", 2010
 
@@ -15,6 +15,10 @@
 - Bishop C., "<strong>Pattern recognition and machine learning</strong>", 2006 (currently reading)
 
 # Papers 
+
+## Quantitative Finance 
+
+- Deutsche Bank, "<strong>Seven Sins of Quantitative Investing</strong>", 2014
 
 ## Market Microstructure 
 
