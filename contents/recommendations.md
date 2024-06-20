@@ -19,7 +19,7 @@
 ## Quantitative Finance 
 
 - Deutsche Bank, "<strong>Seven Sins of Quantitative Investing</strong>", 2014 (currently reading)
-
+- Giuseppe A., "<strong> Advanced Portfolio Management </strong>", 2021
 ## Market Microstructure 
 
 - Avellaneda M., Stoikov S.,"<strong>High Frequency Trading in a Limit Order Book</strong>", 2007
