@@ -1,4 +1,4 @@
-# :books: Books 
+# 📚 Books 
 
 ### Quantitative Finance 
 
@@ -14,7 +14,7 @@
 
 - Bishop C., "<strong>Pattern recognition and machine learning</strong>", 2006 (currently reading)
 
-# :newspaper: Papers 
+# 📰 Papers 
 
 ### Quantitative Finance 
 
