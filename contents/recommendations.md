@@ -39,8 +39,8 @@
 
 ### Market Microstructure 
 
-- Youtube, "<strong>[When Market microstrureWhen Market microstrure](https://youtu.be/S7eig5VXFpY?si=UIXevEa24QYTgZpD)</strong>"
-
+- Stoikov S., "<strong>[When Market microstrureWhen Market microstrure](https://youtu.be/S7eig5VXFpY?si=UIXevEa24QYTgZpD)</strong>", youtube video
+- Wkselph, "<strong>[Building a Trading System - General Considerations](https://web.archive.org/web/20110219163418/http://howtohft.wordpress.com/2011/02/15/building-a-trading-system-general-considerations/)</strong>", blog article
 ### Machine Learning 
 
-- Stackexchange, "<strong>[Why is the L2 regularization equivalent to gaussian prior](https://stats.stackexchange.com/questions/163388/why-is-the-l2-regularization-equivalent-to-gaussian-prior)</strong>"
+- Ngiann, "<strong>[Why is the L2 regularization equivalent to gaussian prior](https://stats.stackexchange.com/questions/163388/why-is-the-l2-regularization-equivalent-to-gaussian-prior)</strong>", Stackexchange post 
