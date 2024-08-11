@@ -19,7 +19,6 @@
 ### Quantitative Finance 
 
 - Deutsche Bank, "<strong>Seven Sins of Quantitative Investing</strong>", 2014 (currently reading)
-- Giuseppe A., "<strong> Advanced Portfolio Management </strong>", 2021
 
 ### Market Microstructure 
 
