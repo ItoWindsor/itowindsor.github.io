@@ -14,6 +14,11 @@
 
 - Bishop C., "<strong>Pattern recognition and machine learning</strong>", 2006 (currently reading)
 
+# Preparing Interviews 
+- Xinfeng Z., <"<strong> A practical guide to quantitatitive finance interviews </strong>", 2008      
+- Falcon C. T. <"<strong> Heard on the Street: Quantitative Questions from Wall Street Job Interviews </strong>", 2014    
+
+
 # 📰 Papers 
 
 ### Quantitative Finance 
